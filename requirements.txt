@@ -1,0 +1,2 @@
+PySimpleGUI - pip install discord-webhook
+discord-webhook - pip install PySimpleGUI
